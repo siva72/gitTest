@@ -1,0 +1,12 @@
+ Volume in drive E is Siva
+ Volume Serial Number is 7ABE-B270
+
+ Directory of E:\Learning\Git
+
+19-04-2020  17:23    <DIR>          .
+19-04-2020  17:23    <DIR>          ..
+19-04-2020  16:51               372 index.html
+19-04-2020  16:51               325 test1.txt
+19-04-2020  17:23                 0 test2.txt
+               3 File(s)            697 bytes
+               2 Dir(s)  62,387,515,392 bytes free
